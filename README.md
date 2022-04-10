@@ -29,13 +29,13 @@
 ## Team members
 
 ### System Architecture
-* Luyang Liu - System architect
 * Arragon Prosser - System architect
 * Pooja Seshadri - System architect
 * Eric Chen - System architect
 * Ansh Bajpai - System architect
 * Jimmy Tran - System architect
 * Zhongxun Pan - System architect
+* Luyang Liu - System architect
 
 ### RTE Scrum Masters or Product Managers
 * Dale Thomas Beniga
